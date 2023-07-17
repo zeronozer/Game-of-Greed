@@ -1,10 +1,39 @@
 # Game of Greed
 
+Game of Greed is a dice game implemented in Python. The code demonstrates several key skills:
+
+- **User Input**: Gets number of players from user with input validation
+- **Randomness**: Simulates dice rolls using the random module
+- **Control Flow**: Implements game loop and turn logic with functions 
+- **Data Structures**: Uses Python lists to store player scores
+- **Modularity**: Separates game logic into reusable functions
+- **Parameters**: Passes data between functions using parameters
+- **Returns**: Functions return values instead of relying on side effects 
+- **Print Output**: Provides game status updates and instructions with print
+- **Docstrings**: Contains documentation strings to explain functions
+- **Readability**: Uses good naming, spacing, and code organization
+- **Encapsulation**: Main function encapsulates overall game logic
+- **Game Logic**: Implements essential game rules and winning conditions
+- **Effective**: Clear, concise implementation of a playable game
+
+The code demonstrates skills in:
+
+- User interaction, print output
+- Utilizing core Python features  
+- Writing modular, encapsulated code
+- Implementing game logic and control flow
+- Documentation and readability
+- Developing an effective game program
+
+Overall, it showcases strong Python skills by implementing a fully playable dice game.
+> It serves as a coding demonstration, showcasing problem-solving skills and knowledge.
+
+## Overview
+
 Game of Greed is a dice game for 2-4 players. Each player takes turns rolling a six-sided die and accumulating points based on the numbers rolled. The first player to reach a certain score threshold (e.g. 50 points) wins the game.
 
 This implementation of the game is written in Python.
 Uses the `random` module for simulating dice rolls. 
-- It serves as a coding demonstration, showcasing problem-solving skills and knowledge.
 
 ## Getting Started
 
