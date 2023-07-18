@@ -102,7 +102,7 @@ Play to "Game of Greed":
 
 - Inspired by a tutorial by Tech With Tim
 
-The original tutorial this code is based on is by "Tech With Tim" and can be found here: [link](https://youtu.be/21FnnGKSRZo)
+The original tutorial this code is based on is by "Tech With Tim" and can be found here: [link](https://youtu.be/21FnnGKSRZo?t=142)
 
 ### Contributing
 
